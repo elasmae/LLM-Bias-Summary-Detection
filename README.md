@@ -5,12 +5,6 @@
 Ce projet vise à détecter et atténuer les biais générés par les modèles de langage (LLM) dans les résumés de réunions, d’échanges ou de documents professionnels.  
 Il combine génération, évaluation et stratégies de mitigation telles que le prompt engineering, le roleplay et le fine-tuning.
 
-##  Objectifs
-
-- Proposer un protocole d’évaluation des biais dans les résumés générés par des LLM.
-- Implémenter des métriques d’évaluation : factualité, neutralité, polarité, diversité lexicale.
-- Tester plusieurs stratégies de mitigation : Prompt Engineering, Roleplay, Fine-tuning.
-- Fournir une application Streamlit (en cours de développement) pour visualiser les biais en temps réel.
 
 
 ## 📁 Structure du projet
