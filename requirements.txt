@@ -1,0 +1,15 @@
+transformers
+datasets
+evaluate
+scikit-learn
+pandas
+numpy
+gradio
+streamlit
+openai
+tqdm
+sentence-transformers
+matplotlib
+ peft 
+ accelerate
+ pytest
